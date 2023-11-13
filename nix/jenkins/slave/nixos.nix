@@ -21,5 +21,6 @@
     bashInteractive # 'sh' step requires this
     coreutils
     which
+    config.programs.ssh.package
   ];
 }
